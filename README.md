@@ -7,53 +7,63 @@
 
 - SSAFY 관통 프로젝트로 부동산 매물 데이터를 제공 받아, 개발한 프로젝트 입니다.
 
----
-
 ## 화면
 
 #### 메인
 
 <img src="./images/main.png"/>
 
+---
+
 #### 로그인
 
 <img src="./images/login.gif"/>
+
+---
 
 #### 쪽지
 
 <img src="./images/note.gif"/>
 
+---
+
 #### 검색
 
 <img src="./images/search.gif"/>
+
+---
 
 #### 공지사항
 
 <img src="./images/notification.gif"/>
 
+---
+
 #### 챗봇
 
 <img src="./images/chatbot.gif"/>
+
+---
 
 #### 관심 지역
 
 <img src="./images/favorites-area.gif"/>
 
+---
+
 #### 관심 아파트
 
 <img src="./images/favorites-apt.gif"/>
+
+---
 
 #### 회원 정보 수정
 
 <img src="./images/profile.gif"/>
 
----
-
 ## ERD
 
 <img src="./images/erd.png"/>
-
----
 
 ## 기술 스택
 
@@ -126,8 +136,6 @@
   </tr>
 </table>
 
----
-
 ## 주요 개발 기능 (담당)
 
 ### Spring Boot 기반 단일 서비스: 기술 스택 정리
@@ -187,6 +195,7 @@
   - **실시간 테스트**: Swagger UI를 통한 API 테스트 환경 제공
 
 <img src="./images/api.gif"/>
+
 ---
 
 #### 7. Spring Mail
@@ -206,8 +215,6 @@
   - **계층 분리**: `presentation` → `application` → `domain` → `infrastructure`
   - **도메인별 모듈화**: `member`, `house`, `deal`, `article`, `auth` 등
   - **의존성 역전**: Repository 인터페이스를 domain에, 구현체를 infrastructure에 배치
-
----
 
 ## 팀원
 
