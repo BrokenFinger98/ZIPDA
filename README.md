@@ -6,60 +6,36 @@
 ## 프로젝트 소개
 
 - SSAFY 관통 프로젝트로 부동산 매물 데이터를 제공 받아, 개발한 프로젝트 입니다.
+- **시현 영상** ⬇️ (클릭하여 재생)
 
-## 화면
+[![시현 영상](https://img.youtube.com/vi/gwj6t58paY0/maxresdefault.jpg)](https://www.youtube.com/watch?v=gwj6t58paY0)
 
-#### 메인
+## 주요 기능
 
-<img src="./images/main.png"/>
+### 🏠 부동산 매물 검색
+- 지역별, 조건별 아파트 매물 검색 및 필터링
+- 카카오맵 연동 지도 기반 매물 위치 확인
+- 매물 상세 정보 조회 및 거래 내역 분석
 
----
+### 👤 사용자 관리
+- 소셜 로그인 (Google, Kakao, Naver)
+- JWT 토큰 기반 인증 시스템
+- 회원 정보 관리 및 프로필 수정
 
-#### 로그인
+### 💬 커뮤니티
+- 부동산 관련 게시글 작성/조회/댓글
+- 실시간 쪽지 시스템
+- 관리자 공지사항 관리
 
-<img src="./images/login.gif"/>
+### 🤖 AI 챗봇
+- OpenAI ChatGPT 연동 부동산 상담 서비스
+- 다양한 시나리오별 프롬프트 템플릿 활용
+- 부동산 정보 및 투자 조언 제공
 
----
-
-#### 쪽지
-
-<img src="./images/note.gif"/>
-
----
-
-#### 검색
-
-<img src="./images/search.gif"/>
-
----
-
-#### 공지사항
-
-<img src="./images/notification.gif"/>
-
----
-
-#### 챗봇
-
-<img src="./images/chatbot.gif"/>
-
----
-
-#### 관심 지역
-
-<img src="./images/favorites-area.gif"/>
-
----
-
-#### 관심 아파트
-
-<img src="./images/favorites-apt.gif"/>
-
----
-
-#### 회원 정보 수정
-
-<img src="./images/profile.gif"/>
+### ❤️ 관심 기능
+- 관심 지역/아파트 찜하기
+- 개인화된 매물 추천
+- 관심 목록 관리
 
 ## ERD
 
