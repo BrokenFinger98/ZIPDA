@@ -90,8 +90,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/><br/>
       <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="110" style="border: none;"></td>
-    <td align="center" width="110" style="border: none;"></td>
   </tr>
 </table>
 
@@ -107,8 +105,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/>
       <sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="110" style="border: none;"></td>
-    <td align="center" width="110" style="border: none;"></td>
   </tr>
 </table>
 
