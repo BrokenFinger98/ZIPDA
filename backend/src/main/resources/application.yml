@@ -44,6 +44,12 @@ spring:
     activate:
       on-profile: local
 
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+
   jpa:
     hibernate:
       ddl-auto: update
@@ -52,7 +58,12 @@ spring:
       hibernate:
         highlight_sql: true
         format_sql: true
-#    defer-datasource-initialization: true
+        dialect: org.hibernate.dialect.H2Dialect
+    defer-datasource-initialization: true
+
+  sql:
+    init:
+      mode: always
 
   h2:
     console:
